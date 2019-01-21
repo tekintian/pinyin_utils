@@ -15,8 +15,10 @@ composer require tekintian/pinyin_utils
 
 
 使用方法
-~~php
+~~~php
+
 \pinyin_utils\Pinyin::convert("云南网");
+
 ~~~
 
 
