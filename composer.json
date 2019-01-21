@@ -9,10 +9,9 @@
         "forum": "https://github.com/tekintian/pinyin_utilsa",
         "source": "https://github.com/tekintian/pinyin_utils"
     },
-    "version":"1.1",
     "autoload": {
         "psr-4": {
-            "tekintian\\pinyin_utils\\": "src/pinyin_utils"
+            "pinyin_utils\\": "src/pinyin_utils"
         }
     }
 }
