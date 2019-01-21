@@ -9,7 +9,7 @@
  包含20902个基本汉字+5059生僻字
 
 
-
+composer require tekintian/pinyin_utils
 
 
 
