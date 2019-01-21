@@ -8,5 +8,13 @@
     "support": {
         "forum": "https://github.com/tekintian/pinyin_utilsa",
         "source": "https://github.com/tekintian/pinyin_utils"
-    }
+    },
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "utils\\": "src/utils"
+        }
+    },
 }
