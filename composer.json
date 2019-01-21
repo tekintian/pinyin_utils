@@ -1,5 +1,6 @@
 {
     "name": "tekintian/pinyin_utils",
+    "author": "tekintian@gmail.com",
     "description": "A php Chinese Convert to pinyin tools package 汉字转拼音工具，支持自定义装换方式，全拼，首字母，第一个字母等。",
     "type": "library",
     "keywords": ["汉字转拼音","工具","汉字工具","汉字转拼音工具", "汉字转拼音首字母"],
@@ -11,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pinyin_utils\\": "src/pinyin_utils"
+            "tekintain\\pinyin_utils\\": "src/pinyin_utils"
         }
     }
 }
