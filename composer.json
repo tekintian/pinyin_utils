@@ -1,0 +1,7 @@
+{
+    "name": "tekintian/pinyin_utils",
+    "description": "A php Chinese Convert to pinyin tools package 汉字转拼音工具，支持自定义装换方式，全拼，首字母，第一个字母等。",
+    "require": {
+        "php": "^5.3"
+    }
+}
