@@ -1,6 +1,6 @@
 <?php
 
-namespace tekintian\utils;
+namespace utils;
 
 /**
  * PHP 汉字转拼音 [包含20902个基本汉字+5059生僻字]
