@@ -10,6 +10,6 @@
         "source": "https://github.com/tekintian/pinyin_utils"
     },
     "require": {
-        "php": ">=5.3"
+        "php": ">=5.3 || >=7.*"
     }
 }
