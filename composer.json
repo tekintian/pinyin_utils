@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "pinyin_utils\\": "src/pinyin_utils"
+            "tekintian\\": "src"
         }
     }
 }

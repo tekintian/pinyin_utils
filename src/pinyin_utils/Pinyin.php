@@ -1,6 +1,6 @@
 <?php
 
-namespace pinyin_utils;
+namespace tekintian\pinyin_utils;
 
 /**
  * PHP 汉字转拼音 [包含20902个基本汉字+5059生僻字]
@@ -9,7 +9,7 @@ namespace pinyin_utils;
  * [all:全拼音|first:首字母|one:仅第一字符首字母]
  * @Author: tekintian
  * @Date:   2019-01-20 20:26:46
- * @Last Modified 2019-01-21
+ * @Last Modified 2019-01-22
  */
 
 class Pinyin {  
